@@ -1,14 +1,21 @@
 # Role_Hierarchy
 Zoho level 1 Assignment    
 Requirements:    
-g++ 9.3.0  
+g++ 9.3.0  (Download from here-> https://www.mingw-w64.org/downloads/)
 
-Steps to run (linux env):      
-
+Steps to run 
 Go to the downloaded directory where the file Role_Hierarchy.cpp is present , Open terminal in that directory type below commands and press enter       
+
+//for linux
 g++ Role_Hierarchy.cpp   
-./a.out   
-        
+./a.out    
+
+//for windows
+g++ Role_Hierarchy.cpp   
+a.exe 
+
+                OR
+Use online compiler https://www.jdoodle.com/online-compiler-c++/
 
 Features:      
     1. Create the root role and display it.  
