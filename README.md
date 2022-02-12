@@ -8,10 +8,7 @@ Steps to run (linux env):
 Go to the downloaded directory where the file Role_Hierarchy.cpp is present , Open terminal in that directory type below commands and press enter       
 g++ Role_Hierarchy.cpp   
 ./a.out   
-
-
-OR  
-execute directly here https://onlinegdb.com/IID_qNSRr       
+        
 
 Features:      
     1. Create the root role and display it.  
