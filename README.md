@@ -1,5 +1,7 @@
 # Role_Hierarchy
 Zoho level 1 Assignment
+Requirnments:    
+g++ 9.3.0  
 
 Steps to run (linux env):      
 
