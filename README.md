@@ -3,7 +3,7 @@ Zoho level 1 Assignment
 
 Steps to run (linux env):      
 
-Go to the downloaded directory where the file Role_Hierarchy.cpp is present , Open terminal in that directory type and enter the following      
+Go to the downloaded directory where the file Role_Hierarchy.cpp is present , Open terminal in that directory type below commands and press enter       
 g++ Role_Hierarchy.cpp   
 ./a.out   
 
